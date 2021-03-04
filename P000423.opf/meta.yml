@@ -1,15 +1,16 @@
-id: opecha:P000423
+id: P000423
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20320
   title: འཕྲོད་བསྟེན་གྱི་རྒྱུན་ཤེས་ཀློག་དེབ།
-  volume:
+  author: ''
+  volumes:
     d2d25d8bf8e64cf7b6ea4f57a4cb6086:
       image_group_id: I8LS20322
       title: Volume 1 of phrod bsten gyi rgyun shes klog deb/
       volume_number: 1
       total_pages: 241
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འཕྲོད་བསྟེན་གྱི་རྒྱུན་ཤེས་ཀློག་དེབ།
   author: ''
